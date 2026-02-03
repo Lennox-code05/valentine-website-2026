@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the nigga person in the world!💖💝💓",
+        title: "Yay! I'm the happiest nigga person in the world!💖💝💓",
         message: "I will give you a big warm hug and kiss when i get back to Bloem",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
